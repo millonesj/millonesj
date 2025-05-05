@@ -1,7 +1,6 @@
 # Hi, I'm Jhonny 👋
 
-I'm a software engineer who is passionate about technology. I like to program and learn new things but I'm more passionate about solving problems. I enjoy working with NodeJS - NestJS, TypeORM and AWS. I'm interested in deepening my knowledge in the back-end and DevOps. 
-I love the linux world and open source.
+I'm a software engineer with a strong passion for technology and a deep focus on backend development and problem-solving. I specialize in building robust solutions using Node.js, NestJS, TypeORM, and AWS. I have a keen interest in DevOps practices and infrastructure automation. I also like working in the Linux environment, and I continuously seek to expand my expertise through hands-on experience.
 
 ### 🛠️ Languages and Tools 🧑‍💻
 <p align="left">
