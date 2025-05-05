@@ -1,6 +1,6 @@
 # Hi, I'm Jhonny 👋
 
-I'm a software engineer who is passionate about technology. I like to program and learn new things but I'm more passionate about solving problems. I enjoy working with VueJS, NestJS and GraphQL. I'm interested in deepening my knowledge in the back-end and DevOps. 
+I'm a software engineer who is passionate about technology. I like to program and learn new things but I'm more passionate about solving problems. I enjoy working with NodeJS - NestJS, TypeORM and AWS. I'm interested in deepening my knowledge in the back-end and DevOps. 
 I love the linux world and open source.
 
 ### 🛠️ Languages and Tools 🧑‍💻
@@ -19,6 +19,14 @@ I love the linux world and open source.
       src="https://nestjs.com/logo-small-gradient.d792062c.svg"
       alt="NestJS"
       width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/typeorm/typeorm/raw/master/resources/typeorm-logo-colored-dark.png"
+      alt="TypeORM"
+      width="160"
       height="40"
     />
   </a>
